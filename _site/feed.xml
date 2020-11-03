@@ -7,6 +7,14 @@
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
+        <title>Lunit INSIGHT</title>
+        <description>Lunit INSIGHT is a medical AI software which analyzes chest x-ray images and mammography images to detect major lung diseases and breast cancer, designed to assist doctors as a “second reader,” for a faster and more accurate diagnosis..</description>
+        <pubDate>Sun, 01 Nov 2020 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/posts/lunit-insight</link>
+        <guid isPermaLink="true">http://localhost:4000/posts/lunit-insight</guid>
+      </item>
+    
+      <item>
         <title>Introducing chalk</title>
         <description>Chalk is a high quality, completely customizable, performant and 100% free blog template for Jekyll.</description>
         <pubDate>Sat, 23 Dec 2017 00:00:00 +0100</pubDate>
@@ -23,8 +31,8 @@
       </item>
     
       <item>
-        <title>Chalk sample post with all elements</title>
-        <description>Have a look at all the predesigned elements you can use in Chalk.</description>
+        <title>test 1</title>
+        <description>description test</description>
         <pubDate>Thu, 21 Dec 2017 00:00:00 +0100</pubDate>
         <link>http://localhost:4000/posts/chalk-sample-post-with-all-elements</link>
         <guid isPermaLink="true">http://localhost:4000/posts/chalk-sample-post-with-all-elements</guid>
