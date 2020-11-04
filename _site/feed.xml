@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="https://www.w3.org/2005/Atom" xmlns:dc="https://purl.org/dc/elements/1.1/">
   <channel>
-    <title>Chalk</title>
+    <title>June</title>
     <description></description>
     <link>http://localhost:4000</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
@@ -12,6 +12,14 @@
         <pubDate>Sun, 01 Nov 2020 00:00:00 +0100</pubDate>
         <link>http://localhost:4000/posts/lunit-insight</link>
         <guid isPermaLink="true">http://localhost:4000/posts/lunit-insight</guid>
+      </item>
+    
+      <item>
+        <title>Lunit Branding</title>
+        <description>Brand Design for AI healthcare startup</description>
+        <pubDate>Sun, 01 Nov 2020 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/posts/lunit-branding</link>
+        <guid isPermaLink="true">http://localhost:4000/posts/lunit-branding</guid>
       </item>
     
       <item>

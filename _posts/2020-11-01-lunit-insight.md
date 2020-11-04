@@ -2,11 +2,11 @@
 layout: post
 title: "Lunit INSIGHT"
 description: "Lunit INSIGHT is a medical AI software which analyzes chest x-ray images and mammography images to detect major lung diseases and breast cancer, designed to assist doctors as a “second reader,” for a faster and more accurate diagnosis.."
-thumb_image: "documentation/lunit-insight-thumb.jpg"
-tags: [product_design, web]
+thumb_image: "documentation/lunit-insight-style-thumb.jpg"
+tags: [product, web]
 ---
 
-{% include image.html path="documentation/lunit-insight-thumb.jpg" path-detail="documentation/lunit-insight-thumb-orig.jpg" alt="Lunit INSIGHT intro" %}
+{% include image.html path="documentation/lunit-insight-style-thumb.jpg" path-detail="documentation/lunit-insight-style-orig.jpg" alt="Lunit INSIGHT intro" %}
 
 
 
